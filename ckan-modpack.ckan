@@ -1,0 +1,367 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "installed-portable",
+    "name": "installed-portable",
+    "abstract": "A list of modules installed on the portable KSP instance",
+    "author": [
+        "Jansky"
+    ],
+    "version": "2021.03.26.06.46.04",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Parallax-StockTextures"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "Science-Full-Reward"
+        },
+        {
+            "name": "Science-Full-Transmit"
+        },
+        {
+            "name": "ScienceLabInfo"
+        },
+        {
+            "name": "ContractConfigurator-FieldResearch"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "NavHudRenewed"
+        },
+        {
+            "name": "USI-ART"
+        },
+        {
+            "name": "VentralDrill"
+        },
+        {
+            "name": "VesselMoverContinued"
+        },
+        {
+            "name": "WaypointManager"
+        },
+        {
+            "name": "CustomAsteroids"
+        },
+        {
+            "name": "CustomAsteroids-Pops-Stock-Stockalike"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "USITools"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "USI-Core"
+        },
+        {
+            "name": "CustomAsteroids-Pops-Stock-Inner"
+        },
+        {
+            "name": "CustomAsteroids-Pops-Stock-Outer"
+        },
+        {
+            "name": "ContractConfigurator-CleverSats"
+        },
+        {
+            "name": "ContractConfigurator-ExplorationPlus"
+        },
+        {
+            "name": "ContractConfigurator-KerbinSpaceStation"
+        },
+        {
+            "name": "ContractConfigurator-RemoteTech"
+        },
+        {
+            "name": "ContractConfigurator-Tourism"
+        },
+        {
+            "name": "JanitorsCloset"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "NewTantaresLV"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "RestockRigidLegs"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "name": "StockPlugins"
+        },
+        {
+            "name": "StockRT"
+        },
+        {
+            "name": "TarsierSpaceTechnologyWithGalaxies"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "ABCORS"
+        },
+        {
+            "name": "BetterBurnTime"
+        },
+        {
+            "name": "BetterLoadSaveGame"
+        },
+        {
+            "name": "CustomPreLaunchChecks"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "DMagicScienceAnimate"
+        },
+        {
+            "name": "DreskillerBase"
+        },
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "K2CommandPodCont"
+        },
+        {
+            "name": "KerbalInventorySystemNoFun"
+        },
+        {
+            "name": "KerBalloons"
+        },
+        {
+            "name": "KspCraftOrganizer"
+        },
+        {
+            "name": "KSPRescueContractFix"
+        },
+        {
+            "name": "PartCommanderCont"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "PlanetWiki"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued"
+        },
+        {
+            "name": "FilterExtensions"
+        },
+        {
+            "name": "FilterExtensionsDefaultConfig"
+        },
+        {
+            "name": "MoarFEConfigs"
+        },
+        {
+            "name": "BonVoyage"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "SmartStage"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        },
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "PartInfo"
+        },
+        {
+            "name": "KerbalJointReinforcementNext"
+        },
+        {
+            "name": "KSPCasherCont"
+        },
+        {
+            "name": "MkerbIncScienceInstruments"
+        },
+        {
+            "name": "NehemiahEngineeringOrbitalScience"
+        },
+        {
+            "name": "OneWindow"
+        },
+        {
+            "name": "QuickExit"
+        },
+        {
+            "name": "QuickGoTo"
+        },
+        {
+            "name": "QuickStart"
+        },
+        {
+            "name": "SafeChute"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "ScienceRelay"
+        },
+        {
+            "name": "StationScienceContinued"
+        },
+        {
+            "name": "TacFuelBalancer"
+        },
+        {
+            "name": "Targetron"
+        },
+        {
+            "name": "TooManyOrbits"
+        },
+        {
+            "name": "TrackingStationEvolved"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "WindowShineTR"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "JSIAdvancedTransparentPods"
+        },
+        {
+            "name": "ResearchBodies"
+        },
+        {
+            "name": "REPOSoftTech-Agencies"
+        },
+        {
+            "name": "OSEWorkShopReworked"
+        },
+        {
+            "name": "LithobrakeExplorationTechnologies"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "notes"
+        },
+        {
+            "name": "CapCom"
+        },
+        {
+            "name": "ContractsWindowPlus"
+        },
+        {
+            "name": "ProgressParser"
+        },
+        {
+            "name": "ContractParser"
+        },
+        {
+            "name": "xScienceContinued"
+        },
+        {
+            "name": "CrewLight"
+        },
+        {
+            "name": "MANGO"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage",
+    "release_date": "2021-03-26T19:46:04.2423626+01:00"
+}
